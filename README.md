@@ -7,7 +7,9 @@ Um sistema simples que recebe dados do usuário, processa a média aritmética e
 * **Condicionais (If/Else):** Estrutura de decisão para aprovação (Média >= 6).
 * **F-strings:** Formatação moderna de strings para exibição de resultados.
 
-* 👨‍💻 Desenvolvedor
+--------------------
+
+👨‍💻 Desenvolvedor
 <table style="border: none;">
 <tr>
 <td align="center">
