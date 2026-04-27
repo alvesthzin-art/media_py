@@ -1,4 +1,4 @@
-📊 1. Calculadora de Média Escolar
+### 📊 Calculadora de Média Escolar
 Um sistema simples que recebe dados do usuário, processa a média aritmética e decide o status do aluno.
 
 ### Conceitos aplicados:
